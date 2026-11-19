@@ -1,0 +1,5 @@
+Villa Flower Barrak adalah usaha penginapan berbentuk villa pribadi di kawasan Ubud, Bali. Villa ini memiliki beberapa unit dengan lima tipe, mulai dari Studio Garden sampai Royal Villa, dan setiap tipe memiliki kapasitas serta harga per malam yang berbeda.
+
+Proses bisnisnya dimulai ketika tamu, baik wisatawan lokal maupun mancanegara, memesan sebuah unit untuk rentang tanggal tertentu. Pengelola mencatat data tamu dan reservasi, lalu total biaya sewa dihitung dari lama menginap dikali harga per malam. Pembayaran dapat dilakukan bertahap, yaitu uang muka lalu pelunasan, melalui transfer, kartu kredit, atau tunai. Selama menginap, tamu juga dapat memesan layanan tambahan seperti airport transfer, spa massage, sarapan tambahan, sewa motor, dan private chef, yang biayanya ditambahkan ke tagihan reservasi.
+
+Tanpa basis data, pengelola kesulitan memantau unit yang masih tersedia, tagihan yang belum lunas, serta pendapatan per tipe villa dan per layanan. Karena itu dirancang sistem basis data relasional dengan tujuh tabel, yaitu tamu, tipeVilla, unitVilla, reservasi, pembayaran, layananTambahan, dan detailLayanan.
